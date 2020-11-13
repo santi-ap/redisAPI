@@ -1,0 +1,25 @@
+{
+  "name": "redusers",
+  "version": "1.0.0",
+  "description": "Simple user management app for class presentation on redis",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Santiago Alfonso",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.3",
+    "bootswatch": "^4.5.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "method-override": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
